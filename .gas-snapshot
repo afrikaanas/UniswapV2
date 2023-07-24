@@ -1,2 +1,2 @@
-CounterTest:testIncrement() (gas: 28432)
-CounterTest:testSetNumber(uint256) (runs: 256, μ: 27665, ~: 28754)
+UniswapV2AddLiquidityTest:testAddLiquidity() (gas: 549406)
+UniswapV2AddLiquidityTest:testRemoveLiquidity() (gas: 312584)
