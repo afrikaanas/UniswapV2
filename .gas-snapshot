@@ -1,2 +1,7 @@
 UniswapV2AddLiquidityTest:testAddLiquidity() (gas: 549406)
 UniswapV2AddLiquidityTest:testRemoveLiquidity() (gas: 312584)
+UniswapV2FlashSwapTest:testFlashSwap() (gas: 150937)
+UniswapV2SwapExamplesTest:testSwapMultiHopExactAmountIn() (gas: 339212)
+UniswapV2SwapExamplesTest:testSwapMultiHopExactAmountOut() (gas: 377988)
+UniswapV2SwapExamplesTest:testSwapSingleHopExactAmountIn() (gas: 170653)
+UniswapV2SwapExamplesTest:testSwapSingleHopExactAmountOut() (gas: 189902)
